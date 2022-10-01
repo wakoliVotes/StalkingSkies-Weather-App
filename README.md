@@ -1,6 +1,6 @@
 
 
-## [StalkingSkies](https://wakolivotes.github.io/StalkingSkies/)
+## [StalkingSkies](https://wakolivotes.github.io/StalkingSkies-Weather-App/)
 ### Overview
 > A weather application for Local Cities
 > Build using **React.js** and [OpenWeatherMap API](https://api.openweathermap.org)
@@ -36,4 +36,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### View It Live
 > Deployed using **[gh-pages](https://ritikjain1272.medium.com/a-beginners-guide-to-host-your-site-on-github-pages-5d09ca933094)**
 
-[Cities Weather Web App](https://wakolivotes.github.io/StalkingSkies/)
+[Cities Weather Web App](https://wakolivotes.github.io/StalkingSkies-Weather-App/)
