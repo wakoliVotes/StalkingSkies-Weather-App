@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.cda133ea.css",
-    "main.js": "/static/js/main.98e53557.js",
-    "index.html": "/index.html",
-    "main.cda133ea.css.map": "/static/css/main.cda133ea.css.map",
-    "main.98e53557.js.map": "/static/js/main.98e53557.js.map"
+    "main.css": "/StalkingSkies/static/css/main.cda133ea.css",
+    "main.js": "/StalkingSkies/static/js/main.98e53557.js",
+    "index.html": "/StalkingSkies/index.html",
+    "main.cda133ea.css.map": "/StalkingSkies/static/css/main.cda133ea.css.map",
+    "main.98e53557.js.map": "/StalkingSkies/static/js/main.98e53557.js.map"
   },
   "entrypoints": [
     "static/css/main.cda133ea.css",
