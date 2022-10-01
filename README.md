@@ -1,5 +1,3 @@
-
-
 ## [StalkingSkies](https://wakolivotes.github.io/StalkingSkies-Weather-App/)
 ### Overview
 > A weather application for Local Cities
